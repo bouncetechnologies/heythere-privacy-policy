@@ -12,7 +12,7 @@ Any questions regarding this Policy and our privacy practices should be sent by 
 
 We are only able to provide you with the services (including use of our website or our Application) under the conditions of this privacy policy.
 
-## \***\*Who we are\*\***
+## **Who we are**
 
 Bounce Technologies Limited is a Brighton-based startup whose core mission is to build software that people love and that has a positive impact on the world. To this end, we have developed Heythere to help facilitate meaningful connections between people. Connecting more people allows us to create a more creative and collaborative world, and helps us solve the most challenging problems we face.
 
@@ -66,7 +66,7 @@ We also process your personal date to:
 
 ## **What we don’t do with your personal data**
 
-- We do not sell or rent your personal data (including personal data) to third parties.\*
+- We do not sell or rent your personal data (including personal data) to third parties.
 - We do not share your personal data with third parties for marketing purposes.
 - We do not collect any personal data from you that we do not need in order to provide and oversee the Heythere service.
 
