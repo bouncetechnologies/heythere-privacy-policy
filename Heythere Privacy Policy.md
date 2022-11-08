@@ -1,4 +1,4 @@
-# Heythere - Privacy Policy
+# Heythere Privacy Policy
 
 #### Effective date: 24th October 2022
 
@@ -12,7 +12,7 @@ Any questions regarding this Policy and our privacy practices should be sent by 
 
 We are only able to provide you with the services (including use of our website or our Application) under the conditions of this privacy policy.
 
-## ****Who we are****
+## \***\*Who we are\*\***
 
 Bounce Technologies Limited is a Brighton-based startup whose core mission is to build software that people love and that has a positive impact on the world. To this end, we have developed Heythere to help facilitate meaningful connections between people. Connecting more people allows us to create a more creative and collaborative world, and helps us solve the most challenging problems we face.
 
@@ -22,13 +22,13 @@ Bounce Technologies Limited is a Private limited Company registered in the UK, w
 
 Under the GDPR (General Data Protection Regulation), Bounce Technologies Limited is known as a data “Controller” of the personal data you provide us. We are registered with the ICO (Information Commissioner’s Officer) in the UK with registration reference ZA296666.
 
-If you would like a copy of some or all of the personal data we hold about you, or if you have any concerns about how we have handled your personal data, in the first instance please send an email addressed to our Data Protection Officer at [dataprotection@bouncebot.io](mailto:dataprotection@bouncebot.io), or write to: Data Protection Officer, Bounce Technologies Limited, Office 5-5, Platf9rm Nine, Floor 5, Tower Point, 44 North Road, Brighton, BN1 1YR. 
+If you would like a copy of some or all of the personal data we hold about you, or if you have any concerns about how we have handled your personal data, in the first instance please send an email addressed to our Data Protection Officer at [dataprotection@bouncebot.io](mailto:dataprotection@bouncebot.io), or write to: Data Protection Officer, Bounce Technologies Limited, Office 5-5, Platf9rm Nine, Floor 5, Tower Point, 44 North Road, Brighton, BN1 1YR.
 
 If you are not satisfied with our response, you can also raise a concern with the ICO ([https://ico.org.uk/](https://ico.org.uk/)) with our company’s registration reference (ZA296666). Please go to [https://ico.org.uk/concerns/](https://ico.org.uk/concerns/) for more information about raising a concern with the ICO.
 
 ## **How we collect personal data**
 
-We obtain data about you when you use our website, web application and LinkedIn extension. We also collect data that you import into our services through our web application, LinkedIn extension and CRM plug-ins. This data contains other peoples personal data as outlined below. 
+We obtain data about you when you use our website, web application and LinkedIn extension. We also collect data that you import into our services through our web application, LinkedIn extension and CRM plug-ins. This data contains other peoples personal data as outlined below.
 
 We collect web analytics when you visit our website. The system we use for these analytics is self-hosted by us, does not collect any personal information, does not use cookies, does not track users across websites, and is GDPR compliant.
 
@@ -44,11 +44,11 @@ Most web browsers allow some control of cookies through the browser settings. To
 
 To provide Heythere as a service, we collect personal data from our users. We will only collect personal data required to provide you with the services you have requested. To help provide you with a clear view of the personal data we collect, we have broken it down into data on yourself as a user, and data you provide as a user (e.g. other people’s personal data):
 
-1. **Personal data on you:** 
-    1. **Personal information**: first name, last name, email address.
-    2. **Financial data:** Heythere collects financial data if you pay for our services. This data is stored with our 3rd party payment provider, Stripe ([https://stripe.com/gb](https://stripe.com/gb)). The data stored included bank card details, billing address, location, tax location status and contact details.
+1. **Personal data on you:**
+   1. **Personal information**: first name, last name, email address.
+   2. **Financial data:** Heythere collects financial data if you pay for our services. This data is stored with our 3rd party payment provider, Stripe ([https://stripe.com/gb](https://stripe.com/gb)). The data stored included bank card details, billing address, location, tax location status and contact details.
 2. **Data you provide us (other people’s personal data)**
-    1. **Personal information:** first name, last name, email address, phone number, LinkedIn profile, bio, interests, job title, organisation name, organisation home page, preferred pronouns.
+   1. **Personal information:** first name, last name, email address, phone number, LinkedIn profile, bio, interests, job title, organisation name, organisation home page, preferred pronouns.
 
 ## **Basis for processing, and why we need to do it**
 
@@ -66,7 +66,7 @@ We also process your personal date to:
 
 ## **What we don’t do with your personal data**
 
-- We do not sell or rent your personal data (including personal data) to third parties.*
+- We do not sell or rent your personal data (including personal data) to third parties.\*
 - We do not share your personal data with third parties for marketing purposes.
 - We do not collect any personal data from you that we do not need in order to provide and oversee the Heythere service.
 
